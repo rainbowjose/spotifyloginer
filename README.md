@@ -1,5 +1,5 @@
 # spotifyloginer
-Spotify login tool can be user for extend you "vacations" in other countries that are not assigned to your account
+Spotify login tool can be used for extend you "vacations" in other countries that are not assigned to your account
 
 
 Use it with args: spotifylogin username(email) password anticaptchakey
