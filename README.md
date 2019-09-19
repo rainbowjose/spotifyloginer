@@ -13,6 +13,6 @@ e.g.: spotifylogin.exe blablabla@gmx.us mypassword 54a6165fd3392992d28091bne9d39
 
 Proxy must be exactly in 'http://*.*.*.*:*' format
 
-Create cronjob thar running every week:
+Create cronjob that running every week:
 
 0 0 * * 0 linuxuser /home/linuxuser/spotifyloginer/spotifyloginer blablabla@gmx.us mypassword 54a6165fd3392992d28091bne9d39a2f > LogSpotifyLoginer.txt
