@@ -12,3 +12,7 @@ You can provide a proxy! This is how it works:
 e.g.: spotifylogin.exe blablabla@gmx.us mypassword 54a6165fd3392992d28091bne9d39a2f http://127.0.0.1:8888
 
 Proxy must be exactly in 'http://*.*.*.*:*' format
+
+Create cronjob thar running every week:
+
+0 0 * * 0 linuxuser /home/linuxuser/spotifyloginer/spotifyloginer blablabla@gmx.us mypassword 54a6165fd3392992d28091bne9d39a2f > LogSpotifyLoginer.txt
